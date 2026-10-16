@@ -1,0 +1,6 @@
+{
+  "name": "مشوار - منصة توصيل الطعام المتكاملة | Mshwar Food Delivery",
+  "description": "تصميم واجهات احترافية عصرية لتطبيق ومنصة مشوار لتوصيل الطعام، تشمل واجهات الزبون، المطعم، الكابتن، الإدارة، الكاشير وشاشة المطبخ KDS بدعم كامل للغة العربية واتجاه RTL.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

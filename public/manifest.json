@@ -1,0 +1,45 @@
+{
+  "id": "/",
+  "name": "مشوار - تطبيق التوصيل السريع | Mshwar Delivery",
+  "short_name": "مشوار",
+  "description": "منظومة توصيل الطعام والطرود بنظام عروض أسعار الكباتن وإدارة المطابخ والكاشير على غرار حمامة دلفري.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#1b4332",
+  "theme_color": "#1b4332",
+  "dir": "rtl",
+  "lang": "ar",
+  "categories": ["food", "delivery", "shopping"],
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "طلب طعام جديد",
+      "short_name": "طلب طعام",
+      "description": "تصفح المطاعم واطلب وجبتك المفضلة",
+      "url": "/?tab=home",
+      "icons": [{ "src": "/icon.svg", "sizes": "192x192" }]
+    },
+    {
+      "name": "مشوار خاص / طرد",
+      "short_name": "طرد خاص",
+      "description": "إرسال طرد واستقبال عروض أسعار الكباتن",
+      "url": "/?tab=custom_delivery",
+      "icons": [{ "src": "/icon.svg", "sizes": "192x192" }]
+    }
+  ]
+}
